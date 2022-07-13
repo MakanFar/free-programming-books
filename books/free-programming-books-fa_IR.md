@@ -29,7 +29,6 @@
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 * [ترجمه آزاد کتاب کد تمیز](https://github.com/Noah1001000/clean-code-persian) - Robert C. Martin et al.
 
-
 ### CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
@@ -58,8 +57,6 @@
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس هایی برای گیک های جوان](https://linuxbook.ir)
 
-
-### PHP
 
 #### Symfony
 
